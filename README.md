@@ -14,3 +14,16 @@ Displays current time on your RGB Keyboard:
 
 Red illumination means it's whole 10s, white - single 1s (ex. red 4 = 40, white 4 = 4, red and white at the same time = 44).
 Colors and keys can be modified my editing the script itself.
+
+
+
+
+## Volume
+Display current system volume constantly on F1-F10 keys on one key at the time every 10% ex:
+
+- 0-9% = Nothing
+- 10-19 = F1
+- 20-29 = F2
+
+And so on...
+
