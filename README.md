@@ -13,7 +13,7 @@ Displays current time on your RGB Keyboard:
 - Seconds - NumPad keys
 
 Red illumination means it's whole 10s, white - single 1s (ex. red 4 = 40, white 4 = 4, red and white at the same time = 44).
-Colors and keys can be modified my editing the script itself.
+Colors and keys can be modified by editing the script itself.
 
 
 
@@ -26,4 +26,5 @@ Display current system volume constantly on F1-F10 keys on one key at the time e
 - 20-29 = F2
 
 And so on...
+Colors and keys can be changed by editing script file.
 
